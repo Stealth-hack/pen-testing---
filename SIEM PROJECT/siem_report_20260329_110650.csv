@@ -1,0 +1,17 @@
+Timestamp,Hostname,Service,Event Type,Message
+Dec 10 08:21:03,kali,sshd[1234],FAILED_LOGIN,Failed password for invalid user admin from 192.168.1.105 port 22 ssh2
+Dec 10 08:21:05,kali,sshd[1234],FAILED_LOGIN,Failed password for invalid user admin from 192.168.1.105 port 22 ssh2
+Dec 10 08:21:07,kali,sshd[1234],FAILED_LOGIN,Failed password for invalid user root from 192.168.1.105 port 22 ssh2
+Dec 10 08:21:09,kali,sshd[1234],FAILED_LOGIN,Failed password for invalid user root from 192.168.1.105 port 22 ssh2
+Dec 10 08:21:11,kali,sshd[1234],FAILED_LOGIN,Failed password for invalid user test from 192.168.1.105 port 22 ssh2
+Dec 10 08:22:01,kali,sshd[1235],SUCCESSFUL_LOGIN,Accepted password for kali from 192.168.1.101 port 22 ssh2
+Dec 10 08:23:15,kali,sudo[1236],UNKNOWN,kali : TTY=pts/0 ; PWD=/home/kali ; USER=root ; COMMAND=/bin/bash
+Dec 10 08:25:44,kali,sshd[1237],FAILED_LOGIN,Failed password for invalid user guest from 10.0.0.22 port 22 ssh2
+Dec 10 08:25:46,kali,sshd[1237],FAILED_LOGIN,Failed password for invalid user guest from 10.0.0.22 port 22 ssh2
+Dec 10 08:26:10,kali,sshd[1238],SUCCESSFUL_LOGIN,Accepted password for kali from 192.168.1.101 port 22 ssh2
+Dec 10 08:30:00,kali,sshd[1239],FAILED_LOGIN,Failed password for invalid user oracle from 203.0.113.45 port 22 ssh2
+Dec 10 08:30:02,kali,sshd[1239],FAILED_LOGIN,Failed password for invalid user oracle from 203.0.113.45 port 22 ssh2
+Dec 10 08:30:04,kali,sshd[1239],FAILED_LOGIN,Failed password for invalid user oracle from 203.0.113.45 port 22 ssh2
+Dec 10 08:30:06,kali,sshd[1239],FAILED_LOGIN,Failed password for invalid user oracle from 203.0.113.45 port 22 ssh2
+Dec 10 08:30:08,kali,sshd[1239],FAILED_LOGIN,Failed password for invalid user oracle from 203.0.113.45 port 22 ssh2
+Dec 10 08:31:00,kali,sshd[1240],SUCCESSFUL_LOGIN,Accepted password for root from 203.0.113.45 port 22 ssh2
